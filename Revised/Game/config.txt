@@ -1,0 +1,14 @@
+Window: 1920 1280 Timber 0
+Loading: graphics/background.png
+Tree: graphics/tree.png
+Branch: graphics/branch.png
+Axe: graphics/axe.png
+Cloud: graphics/cloud.png 5 0.1 0.25 500 0
+Insect: graphics/insect.png 3 0.5 0.8 600 0
+Piece: graphics/log.png 3000 -2500
+Man: graphics/player.png
+Die: graphics/rip.png
+Font: fonts/KOMIKAP_.ttf 75
+Sound Chop: sound/chop.wav
+Sound Death: sound/death.wav
+Sound Out_Of_Time: sound/out_of_time.wav
